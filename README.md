@@ -1,4 +1,4 @@
-# screenCapture
+# React screenCapture
 
 * This is an React component created using Twilio screenCapture API.
 
